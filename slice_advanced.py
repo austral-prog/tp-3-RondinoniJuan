@@ -1,10 +1,14 @@
 def slice_advanced():
     
-    texto = "Awesome"
+    txt = input("")
+    Hello World!
 
-    print (texto.lower[0:3])
-    print (texto.lower[2:5])
-    print (texto.lower[0:7])
+    print (txt[4: :2])
 
+    txt = input("")
+    12345678910
+
+    print (txt[4: :2])
+    
     
 # `pytest tp3_slice_advanced_test.py` o `python tp3_slice_advanced_test.py`
