@@ -6,7 +6,7 @@ def check_vowels():
     
     print ("Contiene e: " + str("e" in txt.lower()))
     
-    print ("Contiene i: " + str("i" in txt,lower()))
+    print ("Contiene i: " + str("i" in txt.lower()))
     
     print ("Contiene o: " + str("o" in txt.lower()))
     
