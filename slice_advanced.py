@@ -1,5 +1,10 @@
 def slice_advanced():
-    # Código a implementar utilizando input.
+    
+    texto = "Awesome"
 
-# Para verificar este ejercicio ejecutar el comando
+    print (texto.lower[0:3])
+    print (texto.lower[2:5])
+    print (texto.lower[0:7])
+
+    
 # `pytest tp3_slice_advanced_test.py` o `python tp3_slice_advanced_test.py`
